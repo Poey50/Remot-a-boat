@@ -1,4 +1,4 @@
-//Remot-a-boat V4
+//Remot-a-boat
 #include <SoftwareSerial.h> // Library for using serial communication
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
@@ -100,73 +100,73 @@ void loop()
     t = bme.readTemperature();
 
   // if received command is to turn off relay
-  if(incomingData.indexOf("Hoff")>=0)
+  if(incomingData.indexOf("R1off")>=0)
   {
     digitalWrite(relay_pin1, LOW);
-    message = "House is turned OFF";
+    message = "Relay1 is turned OFF";
     // Send a sms back to confirm that the relay is turned off
     send_message(message);
   }
   
   // if received command is to turn on relay
-  if(incomingData.indexOf("Hon")>=0)
+  if(incomingData.indexOf("R1on")>=0)
   {
     digitalWrite(relay_pin1, HIGH);
-    message = "House is turned ON";
+    message = "Relay1 is turned ON";
     // Send a sms back to confirm that the relay is turned on
     send_message(message);
   }   
   
   // if received command is to turn off relay
-  if(incomingData.indexOf("Soff")>=0)
+  if(incomingData.indexOf("R2off")>=0)
   {
     digitalWrite(relay_pin2, LOW);
-    message = "Start is turned OFF";
+    message = "Relay2 is turned OFF";
     // Send a sms back to confirm that the relay is turned off
     send_message(message);
   }
   
   // if received command is to turn on relay
-  if(incomingData.indexOf("Son")>=0)
+  if(incomingData.indexOf("R2on")>=0)
   {
     digitalWrite(relay_pin2, HIGH);
-    message = "Start is turned ON";
+    message = "Relay2 is turned ON";
     // Send a sms back to confirm that the relay is turned off
     send_message(message);
   }  
 
   // if received command is to turn off relay
-  if(incomingData.indexOf("3off")>=0)
+  if(incomingData.indexOf("R3off")>=0)
   {
     digitalWrite(relay_pin3, LOW);
-    message = "3 is turned OFF";
+    message = "Relay3 is turned OFF";
     // Send a sms back to confirm that the relay is turned off
     send_message(message);
   }
   
   // if received command is to turn on relay
-  if(incomingData.indexOf("3on")>=0)
+  if(incomingData.indexOf("R3on")>=0)
   {
     digitalWrite(relay_pin3, HIGH);
-    message = "3 is turned ON";
+    message = "Relay3 is turned ON";
     // Send a sms back to confirm that the relay is turned on
     send_message(message);
   }  
   
   // if received command is to turn off relay
-  if(incomingData.indexOf("4off")>=0)
+  if(incomingData.indexOf("R4off")>=0)
   {
     digitalWrite(relay_pin4, LOW);
-    message = "4 is turned OFF";
+    message = "Relay4 is turned OFF";
     // Send a sms back to confirm that the relay is turned off
     send_message(message);
   }
   
   // if received command is to turn on relay
-  if(incomingData.indexOf("4on")>=0)
+  if(incomingData.indexOf("R4on")>=0)
   {
     digitalWrite(relay_pin4, HIGH);
-    message = "4 is turned ON";
+    message = "Relay4 is turned ON";
     // Send a sms back to confirm that the relay is turned on
     send_message(message);
   } 
@@ -259,7 +259,7 @@ void send_message(String message)
 {
   SIM900.println("AT+CMGF=1");    //Set the GSM Module in Text Mode
   delay(100);  
-  SIM900.println("AT+CMGS=\"+447961096028\""); // Mobile number in international format of sender (NOT the GSM module number!)
+  SIM900.println("AT+CMGS=\"+xxxxxxxxxxxx\""); // Replace Xs with mobile number in international format of sender (NOT the GSM module number!)
   delay(100);
   SIM900.println(message);   // The SMS text you want to send
   delay(100);
