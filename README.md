@@ -9,6 +9,7 @@ The GSM module I bought from Amazon came with a baud rate of 9600. That needs to
 I used the software start-up option (which requires soldering a link on the module - as shown) so that if the unit is temporarily disconnected the module will power up again automatically (rather than a 200 mile trip to hold down the re-set button for 1 second. The Arduino is powered from the 4.1 volt pin on the GSM module and this saves having a separte source of power to the Arduino.
 
 PARTS
+
 SIM900 module. (Cheaper on Chinese sites if you can bear to wait). https://www.amazon.co.uk/gp/product/B07PGKR23K/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 
 Buck converter. https://www.amazon.co.uk/gp/product/B081N6WWJS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
