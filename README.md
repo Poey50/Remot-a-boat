@@ -11,18 +11,24 @@ The GSM module I bought from Amazon came with a baud rate of 9600. That needs to
 I used the software start-up option (which requires soldering a link on the module - as shown in the diagram and described in the tutorial) so that if the unit is temporarily disconnected the module will power up again automatically (rather than a 200 mile trip to hold down the re-set button for 1 second). The Arduino is powered from the 4.1 volt pin on the GSM module and this saves having a separate source of power to the Arduino.<br>
 <br>
 
+
 <a href="https://imgur.com/JAredQp"><img src="https://i.imgur.com/JAredQpl.jpg" title="source: imgur.com" /></a>
 
 The layout before measuring for the 3D enclosure. The flexible silicone sheathed wires make placing the components easy.<br>
 <br>
+<br>
+
 <a href="https://imgur.com/OQ47HfE"><img src="https://i.imgur.com/OQ47HfEl.jpg" title="source: imgur.com" /></a>
 
 Mounted in the finished 3D printed enclosure. All connections are ready to plug into 5.5mm female jack plugs permanently installed on the boat. Relay 3 is controlling the IoT A/C Powersocket. This can also be controlled from the A/C control pin (as shown above) with a 3.5mm jack plug into the Powersocket.<br>
 <br>
+<br>
 
 <a href="https://imgur.com/NtpheAi"><img src="https://i.imgur.com/NtpheAil.jpg" title="source: imgur.com" /></a>
 
-This is a phone screen shot of the texts and replies to the device. (Pressure information is also available with the upgraded BME280 sensor.)
+This is a phone screen shot of the texts and replies to the device. (Pressure information is also available with the upgraded BME280 sensor.)<br>
+<br>
+
 
 These are the control texts and responses currently written into the code. Thirteen messags are currently available. They can of course be edited in the code to suit. The inverted commas are used to give clariy here but are not used in the texts and replies.
 
