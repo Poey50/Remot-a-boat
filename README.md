@@ -1,8 +1,8 @@
 # Remot-a-boat
 
-<a href="https://imgur.com/MMbB7z2"><img src="https://i.imgur.com/MMbB7z2.png" title="source: imgur.com" /></a>
-
 This is for my boat kept usually on a mooring 200 miles round trip away. It gives me sensor information (house battery voltage, start voltage, temperature, humidity, and pressure) by return text and allows me to control 4 DC relays and an external A/C relay. Total cost excluding the A/C relay was around £40. Cost of the SIM is £2.50 per month from 1P Mobile. The standby current is 40 milliamps - about 1ah per day. I have a lithium pack on the boat which I keep at around 50% state of charge for longevity. One relay switches on a solar panel to increase the SOC in the days leading up to using the boat, if I need to. Another relay switches on a B2B to top up the start battery if I need to. Apologies for the name. My marketing department are on their final warning.
+
+<a href="https://imgur.com/MMbB7z2"><img src="https://i.imgur.com/MMbB7z2.png" title="source: imgur.com" /></a>
 
 I found this site to be the most useful guide to setting up the GSM 900. https://lastminuteengineers.com/sim900-gsm-shield-arduino-tutorial/
 
