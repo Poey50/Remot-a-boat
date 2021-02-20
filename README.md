@@ -45,7 +45,10 @@ Repeated for Relays 2-4.
 Reply "AC is turned on"
 
 "ACoff" turns off the AC Powerswitch relay.
-Reply "AC is turned off"
+Reply "AC is turned off" (<br>)
+
+
+
 
 
 **PARTS**
