@@ -12,7 +12,9 @@ I used the software start-up option (which requires soldering a link on the modu
 
 <a href="https://imgur.com/JAredQp"><img src="https://i.imgur.com/JAredQpl.jpg" title="source: imgur.com" /></a>
 
-The layout before measuring for the 3D enclosure
+The layout before measuring for the 3D enclosure. The flexible silicone sheathed wires make placing the components easy.
+
+
 
 
 <a href="https://imgur.com/lYlJpbS"><img src="https://i.imgur.com/lYlJpbS.jpg?1" title="source: imgur.com" /></a>
