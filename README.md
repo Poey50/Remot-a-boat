@@ -34,7 +34,7 @@ This is a phone screen shot of the texts and replies to the device. (Pressure in
 <br>
 
 
-These are the control texts and responses currently written into the code. Thirteen messages are currently available. They can of course be edited in the code to suit. The inverted commas are used to give clariy here but are not used in the texts and replies.
+These are the control texts and responses currently written into the code. Thirteen messages are currently available. They can of course be edited in the code to suit. The inverted commas are used to give clarity here but are not used in the texts and replies.
 
 "HV" House voltage - this takes the voltage setting from the power to the unit.
 Reply example "House = 13.3V"
