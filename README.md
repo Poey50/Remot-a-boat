@@ -20,7 +20,31 @@ Mounted in the finished 3D printed enclosure. All connections are ready to plug 
 
 <a href="https://imgur.com/NtpheAi"><img src="https://i.imgur.com/NtpheAil.jpg" title="source: imgur.com" /></a>
 
+This is a phone screen shot of the texts and replies to the device. (Pressure information is also available with the upgraded BME280 sensor.)
 
+These are the control texts and responses currently written into the code. Thirteen messags are currently available. They can of course be edited in the code to suit. The inverted commas are used to give clariy here but are not used in the texts and replies.
+
+"HV" House voltage - this takes the voltage setting from the power to the unit.
+Reply example "House = 13.3V"
+
+"SV" Start voltage taken from the start battery.
+Reply example "Start = 14.03V"
+
+"TH" Temperature, humidity and pressure readings.
+Reply example "Humidity = 44.00%, Temperature = 21.22 C, Pressure = 989.79 hPa"
+
+"R1on" switch on Relay 1.
+Reply "1 is turned on"
+
+"R1off" switch off Relay 1.
+Reply "1 is turned off"
+
+Repeated for Relays 2-4.
+
+"ACon" turns on the AC Powerswitch relay.
+Reply "AC is turned on"
+
+"ACoff" turns off the AC Powerswitch relay.
 
 PARTS
 
