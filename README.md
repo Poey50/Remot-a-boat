@@ -24,15 +24,15 @@ The layout before measuring for the 3D enclosure. The flexible silicone sheathed
 
 Mounted in the finished 3D printed enclosure. All connections are ready to plug into 5.5mm female jack plugs permanently installed on the boat. Relay 3 is controlling the IoT A/C Powersocket. This can also be controlled from the A/C control pin (as shown above) with a 3.5mm jack plug into the Powersocket.<br>
 <br>
-<br>
+
+
+**MESSAGING**
 
 <a href="https://imgur.com/NtpheAi"><img src="https://i.imgur.com/NtpheAil.jpg" title="source: imgur.com" /></a>
 
 This is a phone screen shot of the texts and replies to the device. (Pressure information is also available with the upgraded BME280 sensor.)<br>
 <br>
 
-
-**MESSAGING**
 
 These are the control texts and responses currently written into the code. Thirteen messags are currently available. They can of course be edited in the code to suit. The inverted commas are used to give clariy here but are not used in the texts and replies.
 
