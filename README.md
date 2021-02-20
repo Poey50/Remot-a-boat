@@ -31,3 +31,5 @@ Voltage sensors. https://www.amazon.co.uk/dp/B07L81QJ75/ref=dp_prsubs_1
 22 AWG silicone sheathed wires. https://www.amazon.co.uk/gp/product/B07YFXG4KX/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
 
 Optional Powerswitch Relay (if you want to safely operate AC). https://www.amazon.co.uk/gp/product/B0765WBGK6/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+
+[img]https://i.imgur.com/JAredQpl.jpg[/img]
