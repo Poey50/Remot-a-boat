@@ -45,8 +45,10 @@ Repeated for Relays 2-4.
 Reply "AC is turned on"
 
 "ACoff" turns off the AC Powerswitch relay.
+Reply "AC is turned off"
 
-PARTS
+
+[B]PARTS[/B]
 
 SIM900 module. (Cheaper on Chinese sites if you can bear to wait). https://www.amazon.co.uk/gp/product/B07PGKR23K/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 
