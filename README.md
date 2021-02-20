@@ -16,7 +16,7 @@ The layout before measuring for the 3D enclosure. The flexible silicone sheathed
 
 <a href="https://imgur.com/OQ47HfE"><img src="https://i.imgur.com/OQ47HfEl.jpg" title="source: imgur.com" /></a>
 
-The 3D printed enclosure. All connections are ready to plug into 5.5mm female jack plugs permanently installed on the boat. Relay 3 is controlling the IoT A/C Powersocket. This can also be controlled from the A/C control pin (as shown above) with a 3.5mm jack plug into the Powersocket.
+Mounted in the finished 3D printed enclosure. All connections are ready to plug into 5.5mm female jack plugs permanently installed on the boat. Relay 3 is controlling the IoT A/C Powersocket. This can also be controlled from the A/C control pin (as shown above) with a 3.5mm jack plug into the Powersocket.
 
 
 PARTS
