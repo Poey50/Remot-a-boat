@@ -48,7 +48,7 @@ Reply "AC is turned on"
 Reply "AC is turned off"
 
 
-[B]PARTS[/B]
+PARTS
 
 SIM900 module. (Cheaper on Chinese sites if you can bear to wait). https://www.amazon.co.uk/gp/product/B07PGKR23K/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 
