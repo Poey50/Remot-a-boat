@@ -30,7 +30,7 @@ Mounted in the finished 3D printed enclosure. All connections are ready to plug 
 
 <a href="https://imgur.com/NtpheAi"><img src="https://i.imgur.com/NtpheAil.jpg" title="source: imgur.com" /></a>
 
-This is a phone screen shot of the texts and replies to the device. (Pressure information is also available with the upgraded BME280 sensor.)<br>
+This is a phone screenshot of the texts and replies to the device. (Pressure information is also available with the upgraded BME280 sensor.)<br>
 <br>
 
 
