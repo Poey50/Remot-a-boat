@@ -11,10 +11,12 @@ The GSM module I bought from Amazon came with a baud rate of 9600. That needs to
 I used the software start-up option (which requires soldering a link on the module - as shown) so that if the unit is temporarily disconnected the module will power up again automatically (rather than a 200 mile trip to hold down the re-set button for 1 second. The Arduino is powered from the 4.1 volt pin on the GSM module and this saves having a separate source of power to the Arduino.
 
 <a href="https://imgur.com/JAredQp"><img src="https://i.imgur.com/JAredQpl.jpg" title="source: imgur.com" /></a>
+
 The layout before measuring for the 3D enclosure
 
 
 <a href="https://imgur.com/lYlJpbS"><img src="https://i.imgur.com/lYlJpbS.jpg?1" title="source: imgur.com" /></a>
+
 Fitted in the base of the enclosure.
 
 
