@@ -14,9 +14,9 @@ I used the software start-up option (which requires soldering a link on the modu
 
 The layout before measuring for the 3D enclosure. The flexible silicone sheathed wires make placing the components easy.
 
-<a href="https://imgur.com/lYlJpbS"><img src="https://i.imgur.com/lYlJpbS.jpg?1" title="source: imgur.com" /></a>
+<a href="https://imgur.com/OQ47HfE"><img src="https://i.imgur.com/OQ47HfE.jpg" title="source: imgur.com" /></a>
 
-Fitted in the base of the enclosure.
+The 3D printed enclosure. All connections are ready to plug into 5.5mm female jack plugs permanently installed on the boat. Relay 3 is controlling the IoT A/C Powersocket. This can also be controlled from the A/C control pin (as shown above) with a 3.5mm jack plug into the Powersocket.
 
 
 PARTS
